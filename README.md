@@ -1,31 +1,43 @@
 # django-pollsystem
 
+## Overview
+This project is aimed at revisiting Django through the official Django tutorial. It involves developing a simple polling system to learn the fundamentals of building web applications.
+
+## Technology Stack
+- **Programming Language:** Python
+- **Framework:** Django
+- **Database:** SQLite
+
 ## Setup
 This project utilizes `asdf` to manage Python and `poetry` for dependencies. Follow the steps below to set up your development environment.
+
+### Clone the repository
+```bash
+  git clone https://github.com/bp20110/django-pollsystem.git
+```
 
 ### Prerequisites Installation
 - **Installing asdf**:
   If `asdf` is not yet installed on your system, please follow the instructions in the [asdf official documentation](https://asdf-vm.com/).
 
 ### Environment Setup
+
 - **Installing Python**:
-  Use `asdf` to install the Python version specified in the `.tool-versions` file.
+  Use `asdf` to install the Python, which simplifies dependency management.
   ```bash
   asdf plugin-add python
-  asdf install
 
 - **Installing Poetry**:
-  Next, use asdf to install poetry, which simplifies dependency management.
+  Next, use asdf to install poetry.
   ```bash
   asdf plugin-add poetry
-  asdf install
 
 ### Installing Dependencies
   - **Use poetry to install the project dependencies.**
     ```bash
-    poetry install
+      poetry install
 
-### Running the Project
+## Running the Project
   - **To run the project locally, use the following command**
     ```bash
     poetry run python manage.py runserver
