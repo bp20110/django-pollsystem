@@ -32,6 +32,11 @@ This project utilizes `asdf` to manage Python and `poetry` for dependencies. Fol
   ```bash
   asdf plugin-add poetry
 
+- **Installing the Versions**:
+  Install the versions of the tools specified in the .toolversions file.
+  ```bash
+  asdf install
+
 ### Installing Dependencies
   - **Use poetry to install the project dependencies.**
     ```bash
