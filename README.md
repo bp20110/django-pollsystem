@@ -4,9 +4,8 @@
 This project is intended to review Django through the official Django tutorial. We will develop a simple polling system.
 
 ## Technology Stack
-- **Programming Language:** Python
-- **Framework:** Django
-- **Database:** SQLite
+- **Programming Language:** Python 3.11.4
+- **Framework:** Django 5.0.4
 
 ## Setup
 This project utilizes `asdf` to manage Python and `poetry` for dependencies. Follow the steps below to set up your development environment.
