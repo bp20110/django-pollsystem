@@ -1,7 +1,7 @@
 # django-pollsystem
 
 ## Overview
-This project is aimed at revisiting Django through the official Django tutorial. It involves developing a simple polling system to learn the fundamentals of building web applications.
+This project is intended to review Django through the official Django tutorial. We will develop a simple polling system.
 
 ## Technology Stack
 - **Programming Language:** Python
