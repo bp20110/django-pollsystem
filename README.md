@@ -10,14 +10,14 @@ This project is intended to review Django through the official Django tutorial. 
 ## Setup
 This project utilizes `asdf` to manage the versions of Python and Poetry, and `Poetry` to manage dependencies. Follow the steps below to set up your development environment.
 
+### Prerequisites Installation
+- **Installing asdf**:
+  If `asdf` is not yet installed on your system, please follow the instructions in the [asdf official documentation](https://asdf-vm.com/).
+
 ### Clone the repository
 ```bash
   git clone https://github.com/bp20110/django-pollsystem.git
 ```
-
-### Prerequisites Installation
-- **Installing asdf**:
-  If `asdf` is not yet installed on your system, please follow the instructions in the [asdf official documentation](https://asdf-vm.com/).
 
 ### Environment Setup
 
