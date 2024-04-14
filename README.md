@@ -8,7 +8,7 @@ This project is intended to review Django through the official Django tutorial. 
 - **Framework:** Django 5.0.4
 
 ## Setup
-This project utilizes `asdf` to manage Python and `poetry` for dependencies. Follow the steps below to set up your development environment.
+This project utilizes `asdf` to manage Python and poetry for dependencies. Follow the steps below to set up your development environment.
 
 ### Clone the repository
 ```bash
