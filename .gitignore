@@ -1,1 +1,34 @@
+# Django デフォルトのデータベース
 db.sqlite3
+
+# Python コンパイルされたファイル
+*.pyc
+
+# CPython シリアライズされたオブジェクトファイル
+*.pickle
+
+# ディレクトリ __pycache__
+__pycache__/
+
+# Django migrations の pyc ファイル
+**/migrations/__pycache__/
+
+# VSCode の設定フォルダ
+.vscode/
+
+# テンポラリファイル
+*.tmp
+
+# OS 生成ファイル
+.DS_Store
+
+# プロジェクトに依存する場合はコメントを外してください
+# poetry.lock
+
+# 他の一般的な無視ファイル（必要に応じて追加）
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.seed
